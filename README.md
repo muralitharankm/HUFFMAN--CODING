@@ -1,6 +1,6 @@
 # Huffman-Coding
 # NAME : MURALITHARAN K M
-# REG NO : 212223040121
+# REG NO :  212223040121
 ## Aim
 To implement Huffman coding to compress the data using Python.
 
